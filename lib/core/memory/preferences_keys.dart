@@ -1,0 +1,1 @@
+enum PreferencesKeys { IS_FIRST_ENTRY, IS_LOGGEDIN, COLLECTION,USERID }
